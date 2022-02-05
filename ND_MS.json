@@ -1,0 +1,13 @@
+{
+    "RequiresWalkieTalkie": 0,
+    "ShowPlayersOnMap": 0,
+    "SetMapPositionToPlayer": 0,
+    "ShowMissionRadius": 1,
+    "ShowLabelsSafeZone": 1,
+    "LabelOfSafeZone": "Safe Zone",
+    "DamageSpawnedVehiclesInMission": 0,
+    "EnableSafePosition": 0,
+    "UseDefaultSafePosition": 0,
+    "SafePositions": [],
+    "ArtilleryPositions": []
+}

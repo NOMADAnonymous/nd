@@ -1,0 +1,48 @@
+{
+	"MissionList":[		
+		{
+			"type": "radiationMission",
+			"name": "01_rTISSY_dynamic"
+		},		
+		{
+			"type": "noradiation",
+			"name": "01_rTISSY_dynamicNPC"
+		},		
+		{
+			"type": "radiation",
+			"name": "02_rTISSYstatic"
+		},						
+		{
+			"type": "noradiationMission",
+			"name": "08_HeliCrash"
+		},	
+		{
+			"type": "noradiationMission",
+			"name": "09N_HeliCrash"
+		},		
+		{
+			"type": "noradiationMission",
+			"name": "10_Camp"
+		},
+		{
+			"type": "noradiation",
+			"name": "10_CampNPC"
+		},		
+		{
+			"type": "carAccident",
+			"name": "11_caVehiclesRare"
+		},	
+		{
+			"type": "noradiation",
+			"name": "11_caVehiclesRareNPC"
+		},		
+		{
+			"type": "radiationMission",
+			"name": "12_Train"
+		},
+		{
+			"type": "noradiationMission",
+			"name": "13N_RefugeeCamp"
+		}		
+	]
+}

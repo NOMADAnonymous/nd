@@ -1,0 +1,27 @@
+{
+    "RadiationAffectsNVG": 0,
+    "RadiationResistanceInBuilding": 2.0,
+    "AntiRadBlockDurationEffect": 180,
+    "EffectAntiRadBlockPills": 100,
+    "AutoRadiationReduce": 1.0,
+    "GeigerSoundEffect_Radiation_Low": 5,
+    "GeigerSoundEffect_Radiation_Medium": 50,
+    "GeigerSoundEffect_Radiation_High": 100,
+    "EfficiencyNBCbyState": [
+        1.0,
+        0.75,
+        0.5,
+        0.25,
+        0.0
+    ],
+    "WaterDrainInRadiationPerSec": 5,
+    "RadiationCapForCalc": 200,
+    "ArmorRatioNBCforWaterDrain": 0.75,
+    "NotRequiredFilterForRadiation": 0,
+    "RadiationLimitDegradingAttachments": 0,
+    "RadiationLimitToContamineItems": 0,
+    "EnableFoodDecontamination": 0,
+    "DamageToAttachmentsCoef": 0.0,
+    "DamageToAttachmentsExponent": 0.0,
+    "HeadgearsDetermineBodyProtection": 0
+}

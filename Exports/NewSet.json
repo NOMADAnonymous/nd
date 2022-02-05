@@ -1,0 +1,40 @@
+{
+    "active": 1,
+    "chance": 1.0,
+    "nominal": 1,
+    "lifeTime": 0,
+    "restock": 0,
+    "missionSafeSpawnRadius": 100,
+    "distanceRadius": 100,
+    "safeRadius": 100,
+    "cleanRadius": 150,
+    "showInMap": 1,
+    "mapTitle": "NewSet",
+    "position": [
+        [
+            412.3559875488281,
+            20.0,
+            32.96780014038086,
+            0.0
+        ]
+    ],
+    "structures": [
+        {
+            "className": "Land_Tenement_Big",
+            "makeFire": 0,
+            "noPlaceOnSurface": 1,
+            "makePersist": 0,
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "yaw": 0.012221798300743103,
+            "pitch": 1.1456098556518555,
+            "roll": 0.6112679839134216
+        }
+    ],
+    "NPC": [],
+    "loot": [],
+    "vehicles": []
+}
